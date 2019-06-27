@@ -1,10 +1,10 @@
 {
-    "folders": [
-        {
-            "path": "/Users/aarna/workspace/ui/react-demo-app"
-        },
-        {
-            "path": "/Users/aarna/workspace/ui/reactjs-counter-app"
-        }
-    ]
+	"folders": [
+		{
+			"path": "/Users/aarna/workspace/ui/react-demo-app"
+		},
+		{
+			"path": "/Users/aarna/workspace/ui/reactjs-counter-app"
+		}
+	]
 }
